@@ -1,0 +1,25 @@
+{
+  "archive": "release.zip",
+  "members": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "b940cfe67f6e8697a8cd4af388309c4895b9ee6aca716b4d5d0398ef0e866afd",
+      "size": 84
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "e29a68bedec75956d887529913b136d6e4cad58f4947f8989136091cb5c3ba93",
+      "size": 48
+    },
+    {
+      "path": "docs/usage.md",
+      "sha256": "d30fceeb07a38230e173efbdba6260fd756538f9fd3b0aca32f6fbe44838e203",
+      "size": 69
+    },
+    {
+      "path": "src/build-info.json",
+      "sha256": "ff7bc0e3c2503e6e234a2c5f2c1b41b857cadcf30e344b560ba0f52c411db63b",
+      "size": 56
+    }
+  ]
+}
